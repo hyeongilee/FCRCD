@@ -1,6 +1,9 @@
 # Object Catching Robot
 * This work was conducted as a study of future veichle and robot capstone design, a subject of Department of Software Convergence.
 
+![rviz_screenshot_2019_11_11-09_01_40](https://user-images.githubusercontent.com/45928371/84251252-10701f80-ab48-11ea-8975-5bfe35a657cc.png)
+Use rviz to check if data is coming out right
+
 ## Getting Started
 ### Dependencies
 #### HardWare
