@@ -12,14 +12,17 @@
 * Linux (Tested in Ubuntu 18.04, Mint 19)
 > * ROS
 >> * vision_opencv
->>
+>> * message_filters
+>> * cv_bridge
+>> * sensor_msgs
+>> * geometry_msgs(for visualization)
+>> * k4a
 > * Azure Kinect SDK
 * Raspbian Buster
 > * ros_serial
 
 ### Run
-1 
+
 
 ## License
 * [MIT](https://choosealicense.com/licenses/mit/)
-
