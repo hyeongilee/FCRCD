@@ -27,6 +27,10 @@ You can use rviz to check if data is coming out right. Very exciting.
 
 ### Run
 * First you need to obtain the HSV color value for the object you want to catch. Modifiy the value in percept_object.cpp\
+
+![회로도](https://user-images.githubusercontent.com/45928371/84251775-c2a7e700-ab48-11ea-8790-fa97cac82c89.png)
+Set the hardwares as above.
+
 * If you downloaded all the dependencies and hardware setting, first run ROS
 `$roscore`
 * And execute
